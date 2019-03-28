@@ -30,7 +30,7 @@
 
 **More Notes on the Algorithm** 
 
-This is the light-weight implementation of the PC-EM algorithm proposed in our paper. Because the HIN (Heterogeneous Information Network) constructed by the entire DBLP dump is too large, we run PC-EM on a tiny "HIN" constructed using the inputs in this on-the-fly version and perform exploratory author name disambiguation. You can also modify the parameters in the source codes. For more data and resources, please contact the authors directly.
+This is the light-weight implementation of the PC-EM (Partial Classification Expectation Maximum) algorithm proposed in our paper. Because the HIN (Heterogeneous Information Network) constructed by the entire DBLP dump is too large, we run PC-EM on a tiny "HIN" constructed using the inputs in this on-the-fly version and perform exploratory author name disambiguation. You can also modify the parameters in the source codes. For more data and resources, please contact the authors directly.
 
 **Citation**
 
