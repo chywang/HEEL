@@ -1,0 +1,155 @@
+journals/tim/FangAMMLSFKHXX05	design wireless assisted pedestrian dead reckoning navmote experi	tim	2005	Lei Fang	Panos J. Antsaklis	Luis Antonio Montestruque	M. Brett McMickell	Michael D. Lemmon	Yashan Sun	Hui Fang	Ioannis Koutroulis	Martin Haenggi	Min Xie 0005	Xiaojuan Xie
+journals/dss/FangGZ15	multifaceted trust distrust prediction recommender	dss	2015	Hui Fang 0002	Guibing Guo	Jie Zhang 0002
+journals/tvcg/FangH06	rototexture automated tools texturing raw video	tvcg	2006	Hui Fang 0004	John C. Hart
+journals/tvcg/FangTBAGRWCMC13	visualizing natural image statist	tvcg	2013	Hui Fang	Gary Kwok-Leung Tam	Rita Borgo	Andrew J. Aubrey	Philip W. Grant	Paul L. Rosin	Christian Wallraven	Douglas W. Cunningham	A. David Marshall	Min Chen
+journals/ipm/LiuZF13	exploration ranking models feedback method related entity	ipm	2013	Xitong Liu	Wei Zheng	Hui Fang 0001
+journals/aslib/WuVZFT13	supporting group collaboration wiki increasing awareness task conflict	aslib	2013	Kewen Wu	Julita Vassileva	Qinghua Zhu	Hui Fang 0002	Xiaojie Tan
+journals/ecra/FangZBZ13	effective online review systems chinese context crosscultural empirical studi	ecra	2013	Hui Fang 0002	Jie Zhang 0002	Yang Bao	Qinghua Zhu
+journals/ecra/FangZSM14	reputation mechanism ecommerce virtual reality environ	ecra	2014	Hui Fang 0002	Jie Zhang 0002	Murat Sensoy	Nadia Magnenat-Thalmann
+journals/ir/LuFZ09	empirical study gene synonym query expansion biomedical information retriev	ir	2009	Yue Lu	Hui Fang 0001	Chengxiang Zhai
+journals/ir/LiuCFW14	exploiting entity relationship query expansion enterprise search	ir	2014	Xitong Liu	Fei Chen	Hui Fang	Min Wang
+journals/ir/YangW0C15	opinions matter general approach user profile modeling contextual suggest	ir	2015	Peilin Yang	Hongning Wang	Hui Fang 0001	Deng Cai
+journals/ir/ZhengWFC12	coveragebased search result diversif	ir	2012	Wei Zheng	Xuanhui Wang	Hui Fang 0001	Hong Cheng
+journals/ir/LiuF15	latent entity space novel retrieval approach entitybearing queri	ir	2015	Xitong Liu	Hui Fang
+journals/ir/ZhengFYW14	leveraging integrated information extract query subtopics search result diversif	ir	2014	Wei Zheng	Hui Fang 0001	Conglei Yao	Min Wang
+journals/scientometrics/LiuF14a	impact publications mainland china trends alphabetical authorship	scientometrics	2014	Xuan Zhen Liu	Hui Fang 0006
+journals/scientometrics/LiuF14	scientific group leaders authorship preferences empirical investig	scientometrics	2014	Xuan Zhen Liu	Hui Fang 0006
+journals/scientometrics/LiuF12	peer review overcompetitive research funding fostering mainstream opinion monopoly	scientometrics	2012	Xuan Zhen Liu	Hui Fang 0006
+journals/scientometrics/Fang11	peer review overcompetitive research funding fostering mainstream opinion monopoli	scientometrics	2011	Hui Fang
+journals/scientometrics/LiuF12a	fairly sharing credit multiauthored papers application modification hindex gindex	scientometrics	2012	Xuan Zhen Liu	Hui Fang 0006
+journals/scientometrics/WangLF15	investigation degree articles supported research grants published open access health life sciences journ	scientometrics	2015	Ling Ling Wang	Xuan Zhen Liu	Hui Fang 0006
+journals/nca/WangZF08	neural adaptive control class nonlinear systems unknown deadzon	nca	2008	Zhonghua Wang	Yong Zhang	Hui Fang
+journals/tgrs/SunFDCYD15	regular shape similarity index novel index accurate extraction regular objects remote sensing imag	tgrs	2015	Ziheng Sun	Hui Fang	Meixia Deng	Aijun Chen	Peng Yue	Liping Di
+journals/amc/FangZ09	existence nontrivial homoclinic orbits fourthorder difference equ	amc	2009	Hui Fang	Dapeng Zhao
+journals/see/Fang15a	discussion governmental research	see	2015	Hui Fang
+journals/see/Fang15	explanation resisted discoveries based construallevel theori	see	2015	Hui Fang
+journals/jam/Fang12b	existence periodic solutions competition plankton allelopathy time scal	jam	2012	Hui Fang
+journals/jam/Fang12	synchronization rankone chaotic systems delay linear delayed feedback control	jam	2012	Hui Fang
+journals/jcp/SuiYZFZ11	ventilation optimization analysis airflow control based harmony annealing search	jcp	2011	Jinxue Sui	Li Yang	Zhilin Zhu	Hui Fang	Zhen Hua
+journals/joi/LiuF12	modifying hindex allocating credit multiauthored papers author names rank based contribut	joi	2012	Xuan Zhen Liu	Hui Fang 0006
+journals/jei/JiangFY04	lowcost fast partial decoding compressed video	jei	2004	Jianmin Jiang	Hui Fang 0005	Shu-Yuan Yang
+journals/dke/0004CFMPS15	novel methodology retrieving infographics utilizing structure message cont	dke	2015	Zhuo Li 0004	Sandra Carberry	Hui Fang	Kathleen F. McCoy	Kelly Peterson	Matthew Stagitis
+journals/dke/BostonFCWL14	wikimantic effective disambiguation expansion queri	dke	2014	Christopher Boston	Hui Fang	Sandra Carberry	Hao Wu	Xitong Liu
+journals/ijmmsc/FangW06	existence positive periodic solutions delayed predatorprey patch systems stock	ijmmsc	2006	Hui Fang	Zhicheng Wang
+journals/ijcisys/YangWFW11	laser radar based vehicle localization gps signal blocked area	ijcisys	2011	Ming Yang	Chunxiang Wang	Hui Fang	Bing Wang
+journals/tois/FangTZ11	diagnostic evaluation information retrieval model	tois	2011	Hui Fang 0001	Tao Tao	ChengXiang Zhai
+journals/tog/FangH04	textureshop texture synthesis photograph editing tool	tog	2004	Hui Fang 0004	John C. Hart
+journals/tog/FangH07	preserving shape deformation image edit	tog	2007	Hui Fang 0004	John C. Hart
+journals/pr/FangPATBRGMC14	facial expression recognition dynamic sequences integrated approach	pr	2014	Hui Fang	Neil Mac Parthal	áin	Andrew J. Aubrey	Gary K. L. Tam	Rita Borgo	Paul L. Rosin	Philip W. Grant	A. David Marshall	Min Chen
+journals/pr/FangJF06	fuzzy logic approach detection video shot boundari	pr	2006	Hui Fang 0005	Jianmin Jiang	Yue Feng
+journals/tgis/GaoSYWF13	improving representation landuse maps derived objectoriented image classif	tgis	2013	Wenxiu Gao	Alfred Stein	Li Yang	Ying Wang	Hui Fang
+journals/ijswis/ZhengFCW12	diversifying search results patternbased subtopic model	ijswis	2012	Wei Zheng	Hui Fang 0001	Hong Cheng	Xuanhui Wang
+journals/tits/FangWYY09	groundtexturebased localization intelligent vehicl	tits	2009	Hui Fang	Chunxiang Wang	Ming Yang	Ruqing Yang
+conf/ACMicec/LiuMLFYZCL15	reputation revision mechanism mitigate negative effects misreported	ICEC	2015	Siyuan Liu	Chunyan Miao	Yuan Liu	Hui Fang 0002	Han Yu	Jie Zhang 0002	Yueting Chai	Cyril Leung
+conf/sigir/FangZ14a	virlab platform privacypreserving evaluation information retrieval model	PIR@SIGIR	2014	Hui Fang 0001	ChengXiang Zhai
+conf/sigir/FangTZ04	formal study information retrieval heurist	SIGIR	2004	Hui Fang 0001	Tao Tao	ChengXiang Zhai
+conf/sigir/FangZ05	exploration axiomatic approaches information retriev	SIGIR	2005	Hui Fang 0001	ChengXiang Zhai
+conf/sigir/TanVFZ07	term feedback information retrieval language model	SIGIR	2007	Bin Tan	Atulya Velivelli	Hui Fang 0001	ChengXiang Zhai
+conf/sigir/MeiFZ07	study poisson query generation model information retriev	SIGIR	2007	Qiaozhu Mei	Hui Fang 0001	ChengXiang Zhai
+conf/sigir/FangZ14	axiomatic analysis optimization information retrieval model	SIGIR	2014	Hui Fang 0001	ChengXiang Zhai
+conf/sigir/FangZ06	semantic term matching axiomatic approaches information retriev	SIGIR	2006	Hui Fang 0001	ChengXiang Zhai
+conf/sigir/WangFZ08	study methods negative relevance feedback	SIGIR	2008	Xuanhui Wang	Hui Fang 0001	ChengXiang Zhai
+conf/sigir/CarteretteKPF10	reusable test collections experimental design	SIGIR	2010	Ben Carterette	Evangelos Kanoulas	Virgiliu Pavlu	Hui Fang
+conf/sigir/WuF13	incremental approach efficient pseudorelevance feedback	SIGIR	2013	Hao Wu	Hui Fang
+conf/sigir/FangWYZ14	virlab webbased virtual lab learning studying information retrieval model	SIGIR	2014	Hui Fang 0001	Hao Wu	Peilin Yang	ChengXiang Zhai
+conf/faa/AubreyTMRFGC10	comparing featurebased metrics facial dynamics analysi	FAA	2010	Andrew J. Aubrey	Gary K. L. Tam	A. David Marshall	Paul L. Rosin	Hui Fang	Phil W. Grant	Min Chen
+conf/gis/WuCFZK07	automatic alignment largescale aerial rasters roadmap	GIS	2007	Xiaqing Wu	Rodrigo L. Carceroni	Hui Fang 0004	Steve Zelinka	Andrew Kirmse
+conf/delta/FangNJY06	hybrid scheme temporal video segment	DELTA	2006	Hui Fang 0005	Puteri Norhashimah	Jianmin Jiang	Yong Yin
+conf/paccs/FangHX09	implementation time frequency synchronization carrier interferometry ofdm underwater acoustic channel	PACCS	2009	Hui Fang	Xiaoyi Hu	Ru Xu
+conf/bmvc/FangC09	rankn rank face recognition based motion similar	BMVC	2009	Hui Fang 0003	Nicholas Costen
+conf/icapr/FengFJ05	region growing automatic seeding semantic video object segment	ICAPR (2)	2005	Yue Feng	Hui Fang 0005	Jianmin Jiang
+conf/acl/WangLF14	study conceptbased weighting regularization medical records search	ACL (1)	2014	Yue Wang	Xitong Liu	Hui Fang
+conf/acl/Fang08	reexamination query expansion using lexical resourc	ACL	2008	Hui Fang
+conf/pads/HuangHFS13	marine traffic simulation hub port	SIGSIM-PADS	2013	Shell-Ying Huang	Wen Jing Hsu	Hui Fang	Tiancheng Song
+conf/dcc/ZhangF13	image compression colorization using semiregular color sampl	DCC	2013	Changuang Zhang	Hui Fang
+conf/atal/FangZM13	trust model stemmed diffusion theory opinion evalu	AAMAS	2013	Hui Fang 0002	Jie Zhang 0002	Nadia Magnenat-Thalmann
+conf/atal/Fang0M14	subjectivity grouping learning users rating behavior	AAMAS	2014	Hui Fang 0002	Jie Zhang 0002	Nadia Magnenat-Thalmann
+conf/iccv/ShihKCFI13	joint noise level estimation personal photo collect	ICCV	2013	Yichang Shih	Vivek Kwatra	Troy T. Chinen	Hui Fang	Sergey Ioffe
+conf/fgr/FangCCD08	facial geometry recovery groupwise optical flow	FG	2008	Hui Fang 0003	Nicholas Costen	David Cristinacce	John Darby
+conf/ijcai/Fang13	trust modeling opinion evaluation coping subjectivity dishonesti	IJCAI	2013	Hui Fang
+conf/ijcai/FangBZ13	misleading opinions provided advisors dishonesty subject	IJCAI	2013	Hui Fang 0002	Yang Bao	Jie Zhang 0002
+conf/wise/ChenZCFLW13	iplug personalized list recommendation twitt	WISE (2)	2013	Lijiang Chen	Yibing Zhao	Shimin Chen	Hui Fang	Chengkai Li	Min Wang
+conf/trec/LuF15	event oriented query expansion news event queri	TREC	2015	Kuang Lu	Hui Fang
+conf/trec/WangDF13	tiebreaker new perspective ranking evaluation microblog retriev	TREC	2013	Yue Wang	Jerry Darko	Hui Fang
+conf/trec/FangZ05	axiomatic approach iruiuc trec robust track experi	TREC	2005	Hui Fang 0001	ChengXiang Zhai
+conf/trec/WuF11a	timesensitive weighting microblog retriev	TREC	2011	Hao Wu	Hui Fang
+conf/trec/LiuYF14	entity came rescue leveraging entities minimize risks web search	TREC	2014	Xitong Liu	Peilin Yang	Hui Fang 0001
+conf/trec/FangZZ06	language models expert findinguiuc trec enterprise track experi	TREC	2006	Hui Fang 0001	Lixin Zhou	ChengXiang Zhai
+conf/trec/YangF13a	evaluating effectiveness axiomatic approaches web track	TREC	2013	Peilin Yang	Hui Fang 0001
+conf/trec/Yang015	university delaware trec combining opinion profile modeling complex context filtering contextual suggest	TREC	2015	Peilin Yang	Hui Fang 0001
+conf/trec/ZhengF12	exploiting ontologies search result diversif	TREC	2012	Wei Zheng	Hui Fang 0001
+conf/trec/LuFR14	concept based tiebreaking maximal marginal relevance retrieval microblog retriev	TREC	2014	Kuang Lu	Hui Fang	Diego Roa
+conf/trec/ZhaiTFS03	improving robustness language models uiuc trec robust genomics experi	TREC	2003	ChengXiang Zhai	Tao Tao	Hui Fang 0001	Zhidi Shang
+conf/trec/ZhaiLHVWFSL05	uiucmusc trec genomics track	TREC	2005	ChengXiang Zhai	Xu Ling	Xin He	Atulya Velivelli	Xuanhui Wang	Hui Fang 0001	Azadeh Shakery	Xinghua Lu
+conf/trec/ZhengF09	axiomatic approaches information retrievaluniversity delaware trec million query web track	TREC	2009	Wei Zheng	Hui Fang 0001
+conf/trec/YangF14	exploration opinionaware approach contextual suggest	TREC	2014	Peilin Yang	Hui Fang 0001
+conf/trec/LiuF12	entity profile based approach automatic knowledge	TREC	2012	Xitong Liu	Hui Fang
+conf/trec/LiuDF13	related entity based approach knowledge base acceler	TREC	2013	Xitong Liu	Jerry Darko	Hui Fang
+conf/trec/PWF12	exploiting domain thesaurus medical record retriev	TREC	2012	Miguel A. Callejas P.	Yue Wang	Hui Fang
+conf/trec/ZhengF11	study patternbased suptopic discovery integration web track	TREC	2011	Wei Zheng	Hui Fang 0001
+conf/trec/ZhengFW10	university delaware diverstiy task web track	TREC	2010	Wei Zheng	Hui Fang 0001	Xuanhui Wang
+conf/trec/TanVFZ05	interactive construction query language models uiuc trec hard track experi	TREC	2005	Bin Tan	Atulya Velivelli	Hui Fang 0001	ChengXiang Zhai
+conf/trec/CarterettePFK09	million query track overview	TREC	2009	Ben Carterette	Virgiliu Pavlu	Hui Fang	Evangelos Kanoulas
+conf/trec/YangF13	opinionaware approach contextual suggest	TREC	2013	Peilin Yang	Hui Fang 0001
+conf/trec/ZhengGJF09	udelsmu trec entity track	TREC	2009	Wei Zheng	Swapna Gottipati	Jing Jiang	Hui Fang 0001
+conf/trec/YangF12	exploraton rankingbased strategy contextual suggest	TREC	2012	Peilin Yang	Hui Fang 0001
+conf/trec/WuF12	concept detection using concept adhoc microblog search	TREC	2012	Hao Wu	Hui Fang
+conf/trec/WangF14	exploring query expansion methods concept based represent	TREC	2014	Yue Wang	Hui Fang
+conf/trec/WuF11	exploration new ranking strategies medical record track	TREC	2011	Hao Wu	Hui Fang
+conf/ecir/LiuYF14	entexpo interactive search entitybearing queri	ECIR	2014	Xitong Liu	Peilin Yang	Hui Fang 0001
+conf/ecir/FangZ07	probabilistic models expert	ECIR	2007	Hui Fang 0001	ChengXiang Zhai
+conf/ecir/ZhongF16	opmes similarity search engine mathematical cont	ECIR	2016	Wei Zhong	Hui Fang
+conf/ecir/WuF12	relation based term weighting regular	ECIR	2012	Hao Wu	Hui Fang
+conf/ecir/ZhengF10	query aspect based term weighting regularization information retriev	ECIR	2010	Wei Zheng	Hui Fang 0001
+conf/ecir/WangWF14	exploration tiebreaking microblog retriev	ECIR	2014	Yue Wang	Hao Wu	Hui Fang
+conf/his/FangYFB09	design observerbased neural adaptive controller class nonlinear systems inputconstrain	HIS (2)	2009	Min Fang	Xueyan Yang	Hui Fang	Xiaoli Bai
+conf/graphicsinterface/ZelinkaFGH05	interactive material replacement photograph	Graphics Interface	2005	Steve Zelinka	Hui Fang 0004	Michael Garland	John C. Hart
+conf/um/ZhangTLFRCLNZ11	influence interaction attributes trust virtual commun	UMAP Workshops	2011	Lizi Zhang	Cheun Pin Tan	Siyi Li	Hui Fang 0002	Pramodh Rai	Yao Chen	Rohit Luthra	Wee Keong Ng	Jie Zhang 0002
+conf/um/FangSZM11	handling subjective user feedback reputation computation virtual	UMAP Workshops	2011	Hui Fang 0002	Murat Sensoy	Jie Zhang 0002	Nadia Magnenat-Thalmann
+conf/adma/FangHR09	mining user position log construction personalized activity map	ADMA	2009	Hui Fang	Wen-Jing Hsu	Larry Rudolph
+conf/csie/LiuZFZH09	determination total amino acids oilseed rape leaves using near infrared spectroscopy chemometr	CSIE (7)	2009	Fei Liu 0008	Fan Zhang	Hui Fang	Weijun Zhou	Yong He
+conf/jcdl/ZhengWFC11	exploration patternbased subtopic modeling search result diversif	JCDL	2011	Wei Zheng	Xuanhui Wang	Hui Fang 0001	Hong Cheng
+conf/csb/FangZLY04	subspace clustering microarray data analysis multiple criteria significance assess	CSB	2004	Hui Fang 0001	ChengXiang Zhai	Lei Liu	Jiong Yang
+conf/www/WuFS12	early warning unrecognized drug effects discoveri	WWW (Companion Volume)	2012	Hao Wu	Hui Fang	Steven J. Stanhope
+conf/icassp/LiuFLX95	state decoupling estimation theori	ICASSP	1995	Pan-Tai Liu	Hui Fang	Fu Li	Heng Xiao
+conf/isw/FangWWH11	multistage binary code obfuscation using improved virtual machin	ISC	2011	Hui Fang	Yongdong Wu	Shuhong Wang	Yin Huang
+conf/icpr/FangGC10	discriminant feature manifold facial aging estim	ICPR	2010	Hui Fang	Phil W. Grant	Min Chen
+conf/aamas/FangZSM12	sarc subjectivity alignment reputation comput	AAMAS	2012	Hui Fang 0002	Jie Zhang 0002	Murat Sensoy	Nadia Magnenat-Thalmann
+conf/trustcom/FangZSM11	reputation mechanism virtual reality fivesense oriented feedback provision subjectivity align	TrustCom	2011	Hui Fang 0002	Jie Zhang	Murat Sensoy	Nadia Magnenat-Thalmann
+conf/trustcom/ZhangFNZ11	intrank interaction rankingbased trustworthy friend recommend	TrustCom	2011	Lizi Zhang	Hui Fang	Wee Keong Ng	Jie Zhang
+conf/trustcom/LiuDFZ12	detecting imprudence reliable sellers online auction sit	TrustCom	2012	Xin Liu	Anwitaman Datta	Hui Fang 0002	Jie Zhang 0002
+conf/trustcom/FangZSM12	generalized stereotypical trust model	TrustCom	2012	Hui Fang 0002	Jie Zhang 0002	Murat Sensoy	Nadia Magnenat-Thalmann
+conf/icip/FangDXG13	clamped local shape models global shape model	ICIP	2013	Hui Fang	Jingjing Deng	Xianghua Xie	Philip W. Grant
+conf/webi/NoorianMLFVZ14	socialtrust adaptive trust oriented incentive mechanism social commerc	WI-IAT (1)	2014	Zeinab Noorian	Mohsen Mohkami	Yuan Liu	Hui Fang 0002	Julita Vassileva	Jie Zhang 0002
+conf/uic/FangHR08	controlling uncertainty personal positioning minimal measurement cost	UIC	2008	Hui Fang	Wen-Jing Hsu	Larry Rudolph
+conf/isvc/FangQJ06	video indexing retrieval compressed domain using fuzzycategor	ISVC (2)	2006	Hui Fang 0005	Rami Qahwaji	Jianmin Jiang
+conf/isvc/FangC07	face reconstruction imperfect tracking circumstances using shape model constraint	ISVC (2)	2007	Hui Fang 0003	Nicholas Paul Costen
+conf/isvc/KamaliIFH11	methmorph simulating facial deformation methamphatamine usag	ISVC (1)	2011	Mahsa Kamali	Forrest N. Iandola	Hui Fang 0004	John C. Hart
+conf/acivs/DengXDFG13	recognizing conversational interaction based human pos	ACIVS	2013	Jingjing Deng	Xianghua Xie	Ben Daubney	Hui Fang	Phil W. Grant
+conf/ictir/ZhengF13	diagnostic study search result diversification method	ICTIR	2013	Wei Zheng	Hui Fang 0001
+conf/ictir/LiuFC15	biased web search	ICTIR	2015	Xitong Liu	Hui Fang	Deng Cai
+conf/ictir/YangF13	opinionbased user profile modeling contextual suggest	ICTIR	2013	Peilin Yang	Hui Fang 0001
+conf/ictir/WuF13	tie breaker novel way combining retrieval sign	ICTIR	2013	Hao Wu	Hui Fang
+conf/ictir/ZhaiF13	axiomatic analysis optimization information retrieval model	ICTIR	2013	ChengXiang Zhai	Hui Fang 0001
+conf/aina/FangZZ11	empirical analysis impact online reviews product sales chinese context	AINA	2011	Hui Fang 0002	Qinghua Zhu	Jie Zhang 0002
+conf/nldb/LiCFMP14	infographics retrieval new methodolog	NLDB	2014	Zhuo Li 0004	Sandra Carberry	Hui Fang	Kathleen F. McCoy	Kelly Peterson
+conf/nldb/WangGWF13	automatic detection ambiguous terminology software requir	NLDB	2013	Yue Wang	Irene Lizeth Manotas Guti	érrez	Kristina Winbladh	Hui Fang
+conf/nldb/BostonCF12	wikimantic disambiguation short queri	NLDB	2012	Christopher Boston	Sandra Carberry	Hui Fang
+conf/cost/FangC08	behavioral consistency extraction face verif	COST 2102 Conference (Prague)	2008	Hui Fang 0003	Nicholas Costen
+conf/cost/FangCBL11	modeling effect motion encoding retrieval race face recognit	COST 2102 Training School	2011	Hui Fang 0003	Nicholas Costen	Natalie Butcher	Karen Lander
+conf/cikm/LiuF13	leveraging related entities knowledge base acceler	Web-KRM@CIKM	2013	Xitong Liu	Hui Fang
+conf/cikm/WangFZ07	improve retrieval accuracy difficult queries using negative feedback	CIKM	2007	Xuanhui Wang	Hui Fang 0001	ChengXiang Zhai
+conf/cikm/WuF14a	analytical performance modeling topk query process	CIKM	2014	Hao Wu	Hui Fang
+conf/cikm/ZhengFYW11	search result diversification enterprise data	CIKM	2011	Wei Zheng	Hui Fang 0001	Conglei Yao	Min Wang
+conf/cikm/WuF14	document prioritization scalable query process	CIKM	2014	Hao Wu	Hui Fang
+conf/cikm/ZhengFY12	exploiting concept hierarchy result diversif	CIKM	2012	Wei Zheng	Hui Fang 0001	Conglei Yao
+conf/cikm/LiuFCW12	entity centric query expansion enterprise search	CIKM	2012	Xitong Liu	Hui Fang	Fei Chen	Min Wang
+conf/cikm/LiuFYW11	finding relevant information certain types enterprise data	CIKM	2011	Xitong Liu	Hui Fang 0001	Conglei Yao	Min Wang
+conf/ca/FangH02	randomly accessible procedural animation physically approximate turbulent mot	CA	2002	Hui Fang 0004	John C. Hart
+conf/ifip12/ZouFLKH10	comparative study distance discriminant analysis neural network identification rapeseed cultivars using visiblenear infrared spectra	CCTA (4)	2010	Qiang Zou	Hui Fang	Fei Liu 0008	Wenwen Kong	Yong He
+conf/aaai/LiuLZFYM14	reprev mitigating negative effects misreported	AAAI	2014	Yuan Liu	Siyuan Liu	Jie Zhang 0002	Hui Fang 0002	Han Yu	Chunyan Miao
+conf/aaai/BaoFZ14	topicmf simultaneously exploiting ratings reviews recommend	AAAI	2014	Yang Bao	Hui Fang 0002	Jie Zhang 0002
+conf/aaai/FangBZ14	leveraging decomposed trust probabilistic matrix factorization effective recommend	AAAI	2014	Hui Fang 0002	Yang Bao	Jie Zhang 0002
+conf/coling/LiCFM14	identifying important features graph retriev	COLING	2014	Zhuo Li 0004	Sandra Carberry	Hui Fang	Kathleen F. McCoy
+conf/mswim/FangHR09	cognitive personal positioning based activity map adaptive particle filt	MSWiM	2009	Hui Fang	Wen-Jing Hsu	Larry Rudolph
+conf/avss/NorhashimahFJ03	video extraction compressed domain	AVSS	2003	Puteri Norhashimah	Hui Fang 0005	Jianmin Jiang
