@@ -38,7 +38,7 @@ If you find this software useful for your research, please cite the following pa
 
 > @article{kais2019,<br/>
 &emsp;&emsp; author = {Chengyu Wang and Xiaofeng He and Aoying Zhou},<br/>
-&emsp;&emsp; title = {Heel: exploratory entity linking for heterogeneous information networks},<br/>
+&emsp;&emsp; title = {HEEL: exploratory entity linking for heterogeneous information networks},<br/>
 &emsp;&emsp; journal = {Knowledge and Information Systems},<br/>
 &emsp;&emsp; year = {2019}<br/>
 }
